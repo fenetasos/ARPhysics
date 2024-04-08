@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/arxikh.unity
+    guid: b79f98a61316b1644a840738ca4d51ab
+  - enabled: 1
+    path: Assets/Scenes/epilogh_1.unity
+    guid: 27e0d8b4cacd71049aaf8d6c0b55e11d
+  - enabled: 1
+    path: Assets/Scenes/epilogh_2.unity
+    guid: dce2c9421ccc8c845ae6dbf6f069c2d1
+  - enabled: 1
+    path: Assets/Scenes/epilogh_3.unity
+    guid: e8a68ebd5bc5ca44ab26cb45ee78cbb2
+  - enabled: 1
+    path: Assets/Scenes/epilogh_4.unity
+    guid: 55954b317502ee64bb4a3434418043d5
+  - enabled: 1
+    path: Assets/Scenes/paixnidi_1.unity
+    guid: 852217771c8f3734c9387fa87b0e3096
+  - enabled: 1
+    path: Assets/Scenes/paixnidi_2.unity
+    guid: d4184fd442da4604e884dc55d5fa394d
+  - enabled: 1
+    path: Assets/Scenes/paixnidi_3.unity
+    guid: 7dd27885ab5b83c45952237fa8a24a3a
+  - enabled: 1
+    path: Assets/Scenes/paixnidi_4.unity
+    guid: 89e6205e1f3a8734cbe47b90873ac528
+  - enabled: 1
+    path: Assets/Scenes/perigrafh_peiramatos_1.unity
+    guid: a3461011b841d974b80d9f0e602ae753
+  - enabled: 1
+    path: Assets/Scenes/perigrafh_peiramatos_2.unity
+    guid: 346e1bfc0af90fd4fa34fa074a409f94
+  - enabled: 1
+    path: Assets/Scenes/perigrafh_peiramatos_3.unity
+    guid: 374e271b7f9c7d94c94d5e3f723f4e8d
+  - enabled: 1
+    path: Assets/Scenes/perigrafh_peiramatos_4.unity
+    guid: a8d63515d8611814e9395521e3419030
+  - enabled: 1
+    path: Assets/Scenes/peirama_1.unity
+    guid: ba778c697f566514c93bb74c8f83aede
+  - enabled: 1
+    path: Assets/Scenes/peirama_2.unity
+    guid: 53af6a7fca090284e96a1397f32fa8a4
+  - enabled: 1
+    path: Assets/Scenes/peirama_3.unity
+    guid: d3e64bc2d88c84e42b987943f5a1ba95
+  - enabled: 1
+    path: Assets/Scenes/peirama_4.unity
+    guid: d5a36698c6cfde34ea6afecf46c69612
+  - enabled: 1
+    path: Assets/Scenes/sumperasma_1.unity
+    guid: da1c72811470d3d4a94186438e90144f
+  - enabled: 1
+    path: Assets/Scenes/sumperasma_2.unity
+    guid: 8febef6ce17df954ea99f3499fcedcb4
+  - enabled: 1
+    path: Assets/Scenes/sumperasma_3.unity
+    guid: 6bcb2c764825f6c4fafcf25125dc8644
+  - enabled: 1
+    path: Assets/Scenes/sumperasma_4.unity
+    guid: d0915007a442ac74c8893b915561c9ad
+  m_configObjects: {}
